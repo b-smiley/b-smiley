@@ -1,7 +1,8 @@
-<div id="header" align="center" display="flex" flex-direction="column">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/xTiN0E03sgnvms9Uli/giphy.gif" width="100"/>
-  
+  <div>
   <img src="https://komarev.com/ghpvc/?username=b-smiley&style=flat-square&color=yellow" alt="profile view"/>
+  </div>
 
 </div>
 
