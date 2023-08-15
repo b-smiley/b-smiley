@@ -36,4 +36,4 @@ I am Software Engineering Student from Canada
 
 :revolving_hearts: My Stats
 ---
-https://github-readme-streak-stats.herokuapp.com/?user=b-smiley
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=b-smiley&theme=dark&background=000000)](https://git.io/streak-stats)
