@@ -9,15 +9,14 @@
 
 I am Software Engineering Student from Canada
 
-- :seedling: I'm currently working: A electron react desktop application
+- :seedling: I'm currently working: A Electron React desktop application
 - :snowflake: I'm currently learning: React and Typescript
 - :sunny: Pronouns: He/Him
 - :ocean: Industry Interests: CAD Software, Quantum Computing, Desktop/Web Apps
 
-
 :nut_and_bolt: Languages and Tools
 ---
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="40" height="40"/>
@@ -36,4 +35,9 @@ I am Software Engineering Student from Canada
 
 :revolving_hearts: My Stats
 ---
+<div align="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=b-smiley&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-smiley&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
