@@ -1,9 +1,8 @@
-<div id="header" align="center">
+<div id="header" align="center" display="flex" flex-direction="column">
   <img src="https://media.giphy.com/media/xTiN0E03sgnvms9Uli/giphy.gif" width="100"/>
   
-  
   <img src="https://komarev.com/ghpvc/?username=b-smiley&style=flat-square&color=yellow" alt="profile view"/>
-  
+
 </div>
 
 # :notebook:  About Me
@@ -33,8 +32,8 @@ I am Software Engineering Student from Canada
   &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
   &nbsp;
-  
-
-
-
 </div>
+
+:revolving_hearts: My Stats
+---
+https://github-readme-streak-stats.herokuapp.com/?user=b-smiley
