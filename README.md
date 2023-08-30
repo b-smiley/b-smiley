@@ -36,11 +36,12 @@ I am Software Engineering Student from Canada
 
 :penguin: Open Source Contributions
 ---
-
+<div align="center">
+  
 |Title | Technologies|
 |--|--|
 |[Schulich Ignite Blog Team](https://github.com/Schulich-Ignite/website)|Markdown, Git|
-
+</div>
 
 
 
