@@ -10,10 +10,10 @@
 
 I am Software Engineering Student from Canada
 
-- :seedling: I'm currently working: A Electron React desktop application
+- :seedling: I'm currently working: An Electron React desktop application
 - :snowflake: I'm currently learning: React and Typescript
 - :sunny: Pronouns: He/Him
-- :ocean: Industry Interests: CAD Software, Quantum Computing, Desktop/Web Apps
+- :ocean: Industry Interests: CAD Automation, Embedded Systems, Desktop/Web Apps
 
 :nut_and_bolt: Languages and Tools
 ---
@@ -34,11 +34,23 @@ I am Software Engineering Student from Canada
   &nbsp;
 </div>
 
+:penguin: Open Source Contributions
+---
+
+|Title | Technologies|
+|--|--|
+|[Schulich Ignite Blog Team](https://github.com/Schulich-Ignite/website)|Markdown, Git|
+
+
+
+
 :revolving_hearts: My Stats
 ---
 <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=b-smiley&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-smiley&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
