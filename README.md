@@ -40,7 +40,7 @@ I am Software Engineering Student from Canada
   
 |Title | Technologies|
 |--|--|
-|<a href="https://github.com/Schulich-Ignite/website" target="_blank">Schulich Ignite Blog Team</a>|Markdown, Git|
+|[Schulich Ignite Blog Team](https://github.com/Schulich-Ignite/website)|Markdown, Git|
 </div>
 
 
