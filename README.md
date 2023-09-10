@@ -1,7 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/xTiN0E03sgnvms9Uli/giphy.gif" width="100"/>
   <div>
-  <img src="https://komarev.com/ghpvc/?username=b-smiley&style=flat-square&color=yellow" alt="profile view"/>
+<!--   <img src="https://komarev.com/ghpvc/?username=b-smiley&style=flat-square&color=yellow" alt="profile view"/> -->
+  
+  [Portfolio Website](https://b-smiley.github.io/)
   </div>
 
 </div>
