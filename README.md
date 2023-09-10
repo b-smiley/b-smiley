@@ -10,7 +10,7 @@
 
 I am Software Engineering Student from Canada
 
-- :seedling: I'm currently working: An Electron React desktop application
+- :seedling: I'm currently working on: An Electron React desktop application
 - :snowflake: I'm currently learning: React and Typescript
 - :sunny: Pronouns: He/Him
 - :ocean: Industry Interests: CAD Automation, Embedded Systems, Desktop/Web Apps
