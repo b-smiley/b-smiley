@@ -42,7 +42,7 @@ I am Software Engineering Student from Canada
   
 |Title | Technologies|
 |--|--|
-|[Hack the Change 2023 Hackathon 3rd Place](https://github.com/b-smiley/Hack-The-Change-2023-Untitle-Teamname)|React, Flask, Docker|
+|[🥉 Hack the Change 2023 Hackathon 3rd Place 🥉](https://github.com/b-smiley/Hack-The-Change-2023-Untitle-Teamname)|React, Flask, Docker|
 |[Schulich Ignite Blog Team](https://github.com/Schulich-Ignite/website)|Markdown, Git|
 </div>
 
