@@ -3,14 +3,17 @@
   <div>
 <!--   <img src="https://komarev.com/ghpvc/?username=b-smiley&style=flat-square&color=yellow" alt="profile view"/> -->
   
-  [Portfolio Website](https://b-smiley.github.io/)
-  </div>
+  :star: [Brendan Smiley's Portfolio Website](https://b-smiley.github.io/) :star:
+  </div> 
 
 </div>
 
 # :notebook:  About Me
 
 I am Software Engineering Student from Canada
+
+- :star: Check out my 
+  [portfolio website](https://b-smiley.github.io/)!
 
 - :seedling: I'm currently working on: An Electron React desktop application
 - :snowflake: I'm currently learning: React and Typescript
