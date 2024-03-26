@@ -15,8 +15,8 @@ I am a Software Engineering Student from Canada
 - :star: Check out my 
   [portfolio website](https://b-smiley.github.io/)!
 
-- :seedling: I'm currently working on: An Electron React desktop application
-- :snowflake: I'm currently learning: React and Typescript
+- :seedling: I'm currently working on: An Tauri React desktop application
+- :snowflake: I'm currently learning: Rust
 - :sunny: Pronouns: He/Him
 - :ocean: Industry Interests: CAD Automation, Embedded Systems, Desktop/Web Apps
 
