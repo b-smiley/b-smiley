@@ -62,7 +62,4 @@ I am a Software Engineering Student from Canada
 <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=b-smiley&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<br>
-<a href="https://app.daily.dev/bsmiley"><img src="https://api.daily.dev/devcards/v2/MtFOXUpXfqR07QKcT6sab.png?type=default&r=196" width="356" alt="Brendan's Dev Card"/></a>
 </div>
