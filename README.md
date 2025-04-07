@@ -61,10 +61,10 @@ I am a Software Engineering Student from Canada
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=b-smiley&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<!-- https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="./github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/b-smiley/b-smiley/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/b-smiley/b-smiley/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/b-smiley/b-smiley/output/github-contribution-grid-snake.svg">
 </picture>
-
 </div>
